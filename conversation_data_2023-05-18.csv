@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+2dae1e81-9651-4a6e-b8f6-28533a624809,885f19b9-9f48-4625-8406-424217d700b6,60151cf7-f4c2-4c3a-9324-b476ac5cd582,2023-05-18,2023-05-18 00:23:00,537,Rejected,Crime wrong role while process easy.,0.34144625784193317,['toward'],2023-07-18 11:16:03.378358,2023-07-18 11:16:03.378358

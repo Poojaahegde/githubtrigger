@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+dd308e49-a913-40e7-991b-7a25f1a4915d,07caa217-1c7a-478f-aa5e-788c4eb01e61,67a47eed-eaec-4161-8f27-cc53b439d2c0,2023-06-24,2023-06-24 00:06:00,309,Voicemail,Decide culture such start business choice.,0.2600960290605272,"['others', 'economic', 'forward', 'reveal']",2023-07-18 11:16:03.379387,2023-07-18 11:16:03.379387

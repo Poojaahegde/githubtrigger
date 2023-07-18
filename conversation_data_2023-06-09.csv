@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+8562b4aa-e15e-42d2-bcb9-373d43e3224a,64161205-77a4-42d0-a5e6-5884bae2ce3e,3cb87d93-a4d5-4e6e-8416-7b29bd034242,2023-06-09,2023-06-09 00:11:00,224,Missed,Have enough art night evening size claim.,0.01458477840984651,['today'],2023-07-18 11:16:03.378358,2023-07-18 11:16:03.378358

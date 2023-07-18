@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+a9c80079-508b-4ddd-8310-2a9aa0db4111,be569fa3-e791-4070-b896-172a881b0068,f8c6b580-2e2e-4ff9-a9dc-d4ca8cba4a15,2023-06-30,2023-06-30 00:10:00,223,Missed,Election seven do bad later.,0.8736260000683502,"['notice', 'simple', 'hour']",2023-07-18 11:16:03.379387,2023-07-18 11:16:03.379387

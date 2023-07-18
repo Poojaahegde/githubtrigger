@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+ae20ae1c-425d-4303-bd39-b20b059a24be,ec2d3e9a-4ca4-4e71-9091-aef9e4210fb3,063d850d-3178-46bb-9151-1c7a23d882b8,2023-06-04,2023-06-04 00:05:00,107,Hangup,Fear young hospital husband possible family economic.,0.1752735889533379,"['across', 'become', 'water', 'now', 'daughter']",2023-07-18 11:16:03.378358,2023-07-18 11:16:03.378358

@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+dc24ded3-7a64-4a92-adcc-2784695cd406,e5ce3a09-8d5b-4197-80ce-b7155ba16f2a,e41d9332-7438-4cb6-9aad-85906ccc0343,2023-06-05,2023-06-05 00:07:00,35,Missed,Prevent street land.,0.39723558646692325,"['side', 'large']",2023-07-18 11:16:03.378358,2023-07-18 11:16:03.378358

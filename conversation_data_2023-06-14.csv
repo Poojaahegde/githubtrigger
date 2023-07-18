@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+bad3d823-c27c-4f7f-aeb6-33be9aea1de3,d538e9af-59ee-4f67-9024-1a92f18c0df0,434721bc-0f12-452b-a1ed-a762e5b6a55f,2023-06-14,2023-06-14 00:13:00,393,Missed,Voice must the certain teacher return discussion.,0.8015053050002131,"['why', 'later', 'course', 'trade', 'surface']",2023-07-18 11:16:03.379387,2023-07-18 11:16:03.379387

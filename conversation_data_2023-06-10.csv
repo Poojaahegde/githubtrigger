@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+d0fbddb1-285a-4fda-8379-b041ac13bba8,4abe0128-e893-4d3d-8b55-9aefa2d3a5a8,f7b0fc10-2845-4129-8f0d-289700c2215a,2023-06-10,2023-06-10 00:21:00,446,Missed,Right him off help win month school.,0.2638267671042831,"['staff', 'west', 'through']",2023-07-18 11:16:03.378358,2023-07-18 11:16:03.378358

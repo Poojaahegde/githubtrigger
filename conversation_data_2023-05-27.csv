@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+02932ec5-4a0d-4c90-82b6-6b0ca7091308,0c1eef30-1188-4a3f-832d-e8cdebb8753e,98a7dae7-b1df-496d-ad05-686f95b99119,2023-05-27,2023-05-27 00:07:00,323,Answered,Want evening dog few way expert center year.,0.14744171580984633,"['line', 'player']",2023-07-18 11:16:03.378358,2023-07-18 11:16:03.378358

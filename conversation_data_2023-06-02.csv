@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+89c817fa-e98a-4e93-a5ea-58589de5d1ec,63ed2612-fa43-437b-b337-779ab7d2f5ba,e181a9b9-12f3-4c1a-9638-d97581870066,2023-06-02,2023-06-02 00:21:00,531,Answered,Per risk care may above bit.,0.5382644701296466,"['two', 'free', 'theory']",2023-07-18 11:16:03.378358,2023-07-18 11:16:03.378358

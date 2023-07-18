@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+3702e4aa-950d-40de-aeaf-0c301ea9785a,4fd9e111-3e85-41d8-82ac-367abd11b73f,a2185459-e75f-4a3f-a91f-da45f21bec0d,2023-06-07,2023-06-07 00:03:00,140,Answered,Kind expect quite say growth.,0.9208552148487796,"['culture', 'experience', 'girl', 'third', 'cost']",2023-07-18 11:16:03.378358,2023-07-18 11:16:03.378358

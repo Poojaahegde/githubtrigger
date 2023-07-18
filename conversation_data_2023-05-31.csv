@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+36299a01-3a5d-44b2-b615-d382e14690f0,ee1a0eba-d84d-4126-acc1-7fa8c408bf7e,707b1ce3-4431-4a7f-9356-f86a20d30377,2023-05-31,2023-05-31 00:23:00,157,Voicemail,Stock apply military movement top play back.,0.8812215930837154,"['form', 'firm', 'local']",2023-07-18 11:16:03.378358,2023-07-18 11:16:03.378358

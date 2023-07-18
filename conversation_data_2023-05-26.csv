@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+5b5aecfe-ac77-4be1-964a-b6fba146d8f6,b4d0c9c1-69fb-4fcc-9441-2b5d5dc3fa13,d9c706ae-960e-4049-8c06-ab440d56317e,2023-05-26,2023-05-26 00:04:00,248,Rejected,Government west write interest market few.,0.9978943120322138,"['officer', 'big']",2023-07-18 11:16:03.378358,2023-07-18 11:16:03.378358

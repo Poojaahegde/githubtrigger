@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+d79b082a-a07a-4aac-a40b-6ce572839c4d,37f812cf-16fd-4723-8bcf-e2f0016ed41a,0688ab16-8c51-4eef-b09e-c9cd21820c49,2023-06-03,2023-06-03 00:19:00,65,Rejected,Blood defense especially matter.,0.038982081583998296,"['one', 'actually', 'process', 'threat']",2023-07-18 11:16:03.378358,2023-07-18 11:16:03.378358

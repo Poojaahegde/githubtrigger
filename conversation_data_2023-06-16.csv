@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+1870d1ec-8969-40c6-8d38-38b3eb106595,786c94e2-0afb-458e-aa4f-805b080123c4,bdfd4c1d-7fdf-4488-8faf-ac8e5dd321e5,2023-06-16,2023-06-16 00:03:00,270,Answered,Section door send deal risk memory near.,0.9170138719945886,['let'],2023-07-18 11:16:03.379387,2023-07-18 11:16:03.379387

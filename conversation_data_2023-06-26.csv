@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+89994c2f-87e7-4c7f-9ad6-f6282f8d714d,d21db4a0-212a-4558-9273-423534c7283a,8b66a640-3f26-48d7-a3c4-b967c3ed5504,2023-06-26,2023-06-26 00:29:00,264,Voicemail,Knowledge serious car point.,0.5864413289646895,['none'],2023-07-18 11:16:03.379387,2023-07-18 11:16:03.379387

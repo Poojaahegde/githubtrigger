@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+9897ac07-e81d-4caf-b9e2-663c386d2d1f,156c2772-7dfe-4cbc-98b2-32b26cd42d82,f0ab2bb6-325c-46f1-825a-7df9a72e828b,2023-06-11,2023-06-11 00:11:00,528,Voicemail,Ability loss her media Mrs.,0.7834710506571233,"['language', 'former', 'front', 'open', 'race']",2023-07-18 11:16:03.378358,2023-07-18 11:16:03.378358

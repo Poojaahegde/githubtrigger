@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+42dccd9f-cbe6-44f5-a093-802997d5053c,8e5dd0e3-d598-43f5-a687-579814579530,60f8ae77-8675-4f4a-8d3e-4b7acec35efa,2023-05-05,2023-05-05 00:21:00,143,Voicemail,Few water industry rate.,0.11567517137359551,"['scene', 'over', 'final', 'imagine']",2023-07-18 11:16:03.376518,2023-07-18 11:16:03.376518

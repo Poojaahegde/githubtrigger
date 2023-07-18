@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+72778c80-2d09-40d2-881d-3e7ec7e28acf,ca1088bc-9a15-45c8-a766-62c4ccb04d21,5ad7eecd-1732-4f5d-8eca-6724787b1b8a,2023-05-09,2023-05-09 00:01:00,514,Hangup,Garden defense force spend dream often state.,0.6783237992065043,"['ok', 'authority']",2023-07-18 11:16:03.377843,2023-07-18 11:16:03.377843

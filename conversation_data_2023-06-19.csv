@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+56fb0ae9-188c-4a2d-9761-4c9aa2443278,79909fb0-9787-463e-ae41-2047b9063ed7,1b8d9e46-9514-474b-b20c-3f03723e1056,2023-06-19,2023-06-19 00:19:00,522,Missed,Smile exist school look respond which tell former.,0.9583495146687789,"['today', 'between', 'law', 'toward', 'yourself']",2023-07-18 11:16:03.379387,2023-07-18 11:16:03.379387

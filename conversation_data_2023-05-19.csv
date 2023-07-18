@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+cb9d198c-2bd5-453b-ba87-318d1ecdd267,70f604eb-7c3e-41c6-b39c-8759cb7fa8f0,8a73da61-fc9b-44be-9ade-eb9917c15a2f,2023-05-19,2023-05-19 00:14:00,503,Hangup,Writer product serious wife.,0.21739603637950777,['read'],2023-07-18 11:16:03.378358,2023-07-18 11:16:03.378358

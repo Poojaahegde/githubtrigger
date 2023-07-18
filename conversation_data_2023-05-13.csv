@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+4f84741b-b382-4e41-8407-2053c7bc0b29,d638a245-3f79-40f0-8df7-5b6558671473,164370b9-02f4-4637-8a81-86d19186ffcf,2023-05-13,2023-05-13 00:27:00,597,Hangup,How mean because wide.,0.7687396485389015,"['store', 'note', 'him']",2023-07-18 11:16:03.377843,2023-07-18 11:16:03.377843

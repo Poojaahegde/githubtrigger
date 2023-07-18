@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+bd8f57ff-dd6b-4588-9345-67b7ec245b0d,1902ee12-0d3c-42d2-b950-eb9f884d3cbc,c8a9d57d-74d2-4135-8810-e619c3cd0d88,2023-05-30,2023-05-30 00:07:00,61,Missed,Prepare kid everyone bad forget reveal.,0.3710450189931618,"['traditional', 'dinner', 'painting', 'with', 'have']",2023-07-18 11:16:03.378358,2023-07-18 11:16:03.378358

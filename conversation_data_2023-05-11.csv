@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+bc29ee61-27d2-43d4-98b4-7fc52d857f9d,bd869028-fee9-4cdd-b9e9-9fb4415ce69e,3c3a9da0-63ee-4af8-ac2b-9691b6bfacdb,2023-05-11,2023-05-11 00:14:00,381,Rejected,Ok according ok network.,0.18081299764303027,['wife'],2023-07-18 11:16:03.377843,2023-07-18 11:16:03.377843

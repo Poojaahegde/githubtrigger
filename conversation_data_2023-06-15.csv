@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+5469b58e-52a8-4504-b414-f60c2637c678,4f856e1c-d484-4979-9a81-f962b184f323,e1a27b48-2fce-4f6d-ae43-2b858d4dc1bd,2023-06-15,2023-06-15 00:29:00,290,Missed,Sure mind mention street outside onto continue.,0.7469101210798156,['range'],2023-07-18 11:16:03.379387,2023-07-18 11:16:03.379387

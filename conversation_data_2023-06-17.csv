@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+c8737a5b-867d-40e8-b208-1b5d3aae4825,d5bab5b1-9617-4a15-8fc0-d026b425a634,2d2e2461-27aa-49ca-a843-db3cc185c2f0,2023-06-17,2023-06-17 00:14:00,110,Rejected,Civil risk everything laugh door goal mouth.,0.02649425706728581,"['instead', 'different']",2023-07-18 11:16:03.379387,2023-07-18 11:16:03.379387

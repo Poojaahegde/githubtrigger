@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+608eff2f-ce71-46c3-b594-737e97e49e26,0797157c-aa57-4394-89da-f6a738545122,134594db-ca61-4467-8354-bf07963d06c6,2023-05-22,2023-05-22 00:25:00,201,Answered,Environment force economic good issue medical.,0.34245445867747093,"['consumer', 'feeling', 'foot', 'staff', 'message']",2023-07-18 11:16:03.378358,2023-07-18 11:16:03.378358

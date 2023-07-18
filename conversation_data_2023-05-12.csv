@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+581f4a3d-60fd-41a0-a78a-94a7ec8407a7,3a7c4aac-d25e-4638-91eb-0e9604b1d593,39e74441-3c7d-4c4b-91f1-bc562969bc27,2023-05-12,2023-05-12 00:02:00,524,Hangup,Interesting provide be maybe either.,0.16633133614663242,"['process', 'focus', 'unit', 'trip']",2023-07-18 11:16:03.377843,2023-07-18 11:16:03.377843

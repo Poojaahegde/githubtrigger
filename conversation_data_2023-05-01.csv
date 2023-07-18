@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+ab289c97-daf0-4959-8bee-5addb8f88e7c,797001bc-64e3-4a79-834f-861773578794,66f2a2a6-b6ec-46c2-8f45-feb086e45a1f,2023-05-01,2023-05-01 00:02:00,503,Missed,She score wonder lose boy bad be movie.,0.4026699119783862,['senior'],2023-07-18 11:16:03.376518,2023-07-18 11:16:03.376518

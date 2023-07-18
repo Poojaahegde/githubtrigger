@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+e327bf7d-9089-413f-bf1e-f285a72dc98a,b463bad0-ecf8-4898-bac5-7a01e6ab5fed,36ce7311-142c-4ae5-83ae-b5ec55bd2eb6,2023-06-20,2023-06-20 00:19:00,90,Voicemail,Way country then authority happy government.,0.8133889366284763,"['across', 'again']",2023-07-18 11:16:03.379387,2023-07-18 11:16:03.379387

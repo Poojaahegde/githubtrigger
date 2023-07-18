@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+37a8931d-da3f-403c-8744-c3d5e881e538,ad561448-3af2-4023-a019-d4186f805e53,2f4e2b98-80fe-4411-9f8a-89ac647b2e63,2023-05-15,2023-05-15 00:24:00,492,Answered,Surface newspaper them west.,0.31895130357167034,"['front', 'however', 'return', 'understand']",2023-07-18 11:16:03.377843,2023-07-18 11:16:03.377843

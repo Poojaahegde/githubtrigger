@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+ec7f71e5-91e7-4b2e-9575-e6760ac46707,742997f2-6134-45ed-a706-4f6729b242fc,1d7e3901-12d9-4c7e-ba56-165ee285309a,2023-06-27,2023-06-27 00:25:00,478,Voicemail,Almost walk beyond focus whatever far record.,0.0890817697018993,"['growth', 'worker']",2023-07-18 11:16:03.379387,2023-07-18 11:16:03.379387

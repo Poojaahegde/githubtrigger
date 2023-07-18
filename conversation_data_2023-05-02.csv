@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+aeb2258c-0019-46d8-b922-65f09720e1b4,e367f1f5-b49f-42b7-9f64-14afda5df031,a5c1bc7c-d771-4503-8ef9-c16af5c852fc,2023-05-02,2023-05-02 00:19:00,236,Answered,Human some whether drive tell gun.,0.0674913642798427,"['music', 'meet', 'and', 'look']",2023-07-18 11:16:03.376518,2023-07-18 11:16:03.376518

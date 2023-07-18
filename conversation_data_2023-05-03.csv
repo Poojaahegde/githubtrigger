@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+3ab5022b-b83d-48b4-a9d9-b15b924cbb80,f6a1dfab-4dff-4af9-aa0d-4a60391d842e,273110fd-daee-4bef-b953-55e4f2d25dd4,2023-05-03,2023-05-03 00:10:00,419,Rejected,Leader machine and rate treat happy ahead.,0.4144131464791454,"['voice', 'direction']",2023-07-18 11:16:03.376518,2023-07-18 11:16:03.376518

@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+38bad8b1-056c-4415-b7dc-572e8cd8bb14,f2342c27-9707-4ad6-9ec4-d39400ccc6e7,ecb6f981-96e6-4a96-a58d-a9b56c64db3e,2023-05-29,2023-05-29 00:28:00,600,Hangup,Free now star nearly foreign few.,0.4258991006413455,"['military', 'discussion', 'material', 'thousand']",2023-07-18 11:16:03.378358,2023-07-18 11:16:03.378358

@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+042cc26b-2b3d-404b-83a3-cdfee3020d07,9198908d-9c4d-4a2b-a7b9-162fd06b3f31,d3395944-529d-4731-952c-26fb2492943a,2023-06-08,2023-06-08 00:09:00,580,Voicemail,Under after tell firm painting.,0.28915759076034875,['cut'],2023-07-18 11:16:03.378358,2023-07-18 11:16:03.378358

@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+abc7a4d4-9c09-4b8a-a3e3-b552f85c6cc3,d5574e90-bdbe-4ae5-9189-bc8d02d5dc91,966f4aa1-b42d-4e32-986f-284a6b766a85,2023-06-01,2023-06-01 00:17:00,388,Voicemail,Stop include tree young appear state girl.,0.35119895591369277,"['near', 'plant', 'young', 'speak']",2023-07-18 11:16:03.378358,2023-07-18 11:16:03.378358

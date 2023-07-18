@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+e039a869-8db4-4fc8-8362-89fdf2f82bb8,460ef5f1-dd83-454d-a56b-5c12cc8aba0f,f3a21237-b9cf-432d-a8b1-f6a4cb65dd42,2023-06-28,2023-06-28 00:26:00,271,Voicemail,Clearly news recognize message.,0.8387588992396906,['social'],2023-07-18 11:16:03.379387,2023-07-18 11:16:03.379387

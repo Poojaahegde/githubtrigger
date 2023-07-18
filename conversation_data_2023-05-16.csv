@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+7c6164fe-3c98-49c8-bfad-ea6692d63c05,77ac8f90-03ad-4eba-a8dd-5ccc42ce97ee,a36944b9-0ffd-469b-9f0b-906e5482434b,2023-05-16,2023-05-16 00:24:00,154,Voicemail,Show effort five interview back public author.,0.7373668192140708,"['style', 'anything', 'hotel', 'other', 'determine']",2023-07-18 11:16:03.377843,2023-07-18 11:16:03.377843

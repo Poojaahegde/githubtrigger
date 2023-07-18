@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+e9a80456-3a12-4916-99ba-b6b90e85ccaf,c416e20d-f8ef-4e81-8422-54886ab2bc96,481c9cf0-3c55-4ef7-8fb3-013cc51d5144,2023-05-21,2023-05-21 00:01:00,462,Missed,Group worry watch nearly blue cause.,0.6691537737785533,"['center', 'meeting', 'blue', 'executive']",2023-07-18 11:16:03.378358,2023-07-18 11:16:03.378358

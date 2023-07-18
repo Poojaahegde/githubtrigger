@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+d337b988-8433-44fe-a8f1-0265abd93faa,7b94708e-4a21-4a04-8923-20b03dcb48a1,253b4c43-14cd-4707-b8d2-b51afd225915,2023-05-14,2023-05-14 00:23:00,239,Answered,Least ready forward claim we size indeed.,0.18481672561678464,"['understand', 'somebody', 'should', 'also', 'unit']",2023-07-18 11:16:03.377843,2023-07-18 11:16:03.377843

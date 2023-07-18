@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+e337f02c-73a2-4be8-b017-84282b5890f1,9fc1c775-1df4-4573-b3f5-df7eae62a234,14846124-ebb4-48ba-ad34-593a15b2f179,2023-06-18,2023-06-18 00:18:00,493,Answered,Cold case happen foot.,0.8778159982020743,"['yes', 'specific']",2023-07-18 11:16:03.379387,2023-07-18 11:16:03.379387

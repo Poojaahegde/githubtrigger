@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+55f0517c-92f1-402d-b210-1bd5c2df9901,9362dae3-9378-41c9-a9ba-1572c1851e50,ff1366e6-591f-4b1c-b818-f7e2988294ed,2023-06-25,2023-06-25 00:20:00,565,Rejected,Teacher attack design.,0.9584072216339858,"['within', 'practice', 'would', 'leader', 'data']",2023-07-18 11:16:03.379387,2023-07-18 11:16:03.379387

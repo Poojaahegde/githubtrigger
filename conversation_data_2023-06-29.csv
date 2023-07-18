@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+8dce1522-7df1-4a33-930b-0c3b4f36b4ff,8d05fcfd-bace-4fc7-a6ed-0064b8b7538e,77ddbd09-138c-4dc2-9ddd-4d1979c9d1f8,2023-06-29,2023-06-29 00:30:00,69,Hangup,Generation eye word expect bed red thank.,0.28868829345079716,"['kind', 'stuff', 'end', 'ago']",2023-07-18 11:16:03.379387,2023-07-18 11:16:03.379387

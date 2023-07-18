@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+cf249b77-b8a2-4d27-99da-626ee5949ae0,39d9d0c0-2f75-40a0-b583-d202eb43dc3c,71535c09-2112-431b-8fa2-25012ad9f787,2023-06-12,2023-06-12 00:14:00,265,Hangup,Name these likely car coach.,0.8717688524642316,"['form', 'kid', 'system']",2023-07-18 11:16:03.378358,2023-07-18 11:16:03.378358

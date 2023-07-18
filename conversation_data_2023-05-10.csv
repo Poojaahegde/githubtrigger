@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+bc93dcc9-1d3a-4ed0-9220-2e67754486b1,c4aadfe4-dace-4813-ad38-b737b3c46060,be58accb-b5bd-4c1a-a09f-79fead51652f,2023-05-10,2023-05-10 00:05:00,146,Voicemail,Would whom condition month time camera summer campaign.,0.09907876419313777,"['though', 'particular', 'early']",2023-07-18 11:16:03.377843,2023-07-18 11:16:03.377843

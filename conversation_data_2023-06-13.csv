@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+ff36d076-f9b3-489a-91af-284ee307a382,97fdd89b-5dda-4f16-b929-2a5af24b1e56,fd114d96-1885-4bfa-a4f4-8bd2e8ace5e3,2023-06-13,2023-06-13 00:16:00,239,Missed,Task speak yet activity firm a company ok.,0.6688386973176305,"['pull', 'financial', 'first', 'site', 'customer']",2023-07-18 11:16:03.379387,2023-07-18 11:16:03.379387

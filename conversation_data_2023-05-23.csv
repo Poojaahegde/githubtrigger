@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+f9415147-ba01-4251-baca-841fc4b75512,ef99d84e-e3e5-45df-a59f-64634495f62f,9e51f74d-bd88-4ed5-aea9-4beb6fec358b,2023-05-23,2023-05-23 00:24:00,189,Answered,Machine to edge little last resource quite raise.,0.9905000927239308,"['so', 'run', 'consumer']",2023-07-18 11:16:03.378358,2023-07-18 11:16:03.378358

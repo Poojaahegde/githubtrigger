@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+6b73bf70-9f44-472d-a67d-ef05e8493ab9,ccabab9b-8bd8-45f4-8c7a-19ed89895401,14b6be7e-c4f0-42e9-9570-0aa03d0ee6d1,2023-05-28,2023-05-28 00:02:00,330,Missed,Begin word magazine reveal.,0.8456605298927635,"['like', 'new']",2023-07-18 11:16:03.378358,2023-07-18 11:16:03.378358

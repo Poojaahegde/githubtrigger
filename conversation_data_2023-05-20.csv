@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+6ffe343b-f66a-4666-b9d7-e69e2637c865,954586e3-dd7c-4f4a-8dc4-20a3e36dcef7,c02eb326-1a9f-4018-8a1a-e5f0037e31b1,2023-05-20,2023-05-20 00:22:00,489,Answered,No democratic station on car lawyer administration degree.,0.39790804419354353,"['parent', 'security', 'however', 'street', 'way']",2023-07-18 11:16:03.378358,2023-07-18 11:16:03.378358

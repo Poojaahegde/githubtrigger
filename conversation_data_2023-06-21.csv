@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+358810cb-5e31-4994-90a3-f4fdb6a29747,514a0bd7-633e-4b17-9f0f-6efcd1f659e5,b42cf599-c763-49a2-8cd6-90e2687fd6e3,2023-06-21,2023-06-21 00:22:00,489,Hangup,Cut get his near air how.,0.4142593555424039,"['beat', 'best']",2023-07-18 11:16:03.379387,2023-07-18 11:16:03.379387

@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+bc1ef6d9-403c-40aa-9f2c-ca15cacf2913,1d70ce17-5893-48e2-9ac8-285417e7505d,f143c6c1-446c-4fd2-93dd-9578138c6e2f,2023-05-25,2023-05-25 00:05:00,339,Rejected,Special player trade hold.,0.12424133752550037,"['organization', 'ready', 'edge', 'speech']",2023-07-18 11:16:03.378358,2023-07-18 11:16:03.378358

@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+89c9f39c-2790-457d-b284-1966556b7aaa,8ab4dbe2-6fa1-4db1-af2c-2470a8c456b6,08c632c4-156d-40c0-8c98-3a2053e43ff6,2023-05-17,2023-05-17 00:05:00,448,Hangup,Return marriage radio decide.,0.09466291518678682,"['remain', 'lead', 'model', 'must', 'follow']",2023-07-18 11:16:03.377843,2023-07-18 11:16:03.377843

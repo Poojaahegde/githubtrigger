@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+8f4c9cad-0ec2-4a84-8eac-4aaef4afda62,0e7c3950-25a4-4241-acea-cc54b0e07173,4d94e152-b9d2-42a7-9320-8c59f2cf2df3,2023-06-22,2023-06-22 00:12:00,227,Answered,Attention first pick condition market rather discuss.,0.9703984314235414,"['fight', 'personal']",2023-07-18 11:16:03.379387,2023-07-18 11:16:03.379387

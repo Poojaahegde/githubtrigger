@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+8e7e0312-71dd-4cfe-8bf2-134da34361e0,cd2202a4-85d3-4277-8a45-362671c2438e,f08ce868-0ce5-4f29-a7e9-4500b4e0c1d2,2023-05-07,2023-05-07 00:30:00,267,Hangup,Sport service doctor PM.,0.5011400694733387,['young'],2023-07-18 11:16:03.377843,2023-07-18 11:16:03.377843

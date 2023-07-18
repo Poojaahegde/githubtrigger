@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+89eeb4c9-d279-4d6c-b999-4a6621d66eaf,310eca6d-dd48-4193-945e-148ac0cbe100,a100a120-73c3-4078-a1d1-7598256d3b9a,2023-05-04,2023-05-04 00:17:00,288,Rejected,Most attention system require need itself full.,0.13357452805580705,['without'],2023-07-18 11:16:03.376518,2023-07-18 11:16:03.376518

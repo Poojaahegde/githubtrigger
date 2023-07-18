@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+328dfe0a-d618-458f-b5ed-3b11cd03097a,fcabe9bc-40fa-481a-879a-f2f81cca1301,d5202081-8362-4d70-8897-af4f20c4e0fb,2023-05-24,2023-05-24 00:03:00,364,Missed,Child end set not attack since knowledge.,0.34227574572409536,"['home', 'sell']",2023-07-18 11:16:03.378358,2023-07-18 11:16:03.378358

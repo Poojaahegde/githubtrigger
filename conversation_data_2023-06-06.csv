@@ -1,0 +1,2 @@
+customer_id,conversation_id,agent_id,call_start,call_end,call_duration_sec,call_status,transcript,sentiment_score,keywords,created_at,updated_at
+8017445d-ddee-44f5-9763-cac6d670ea6e,aad74cab-12e7-494b-a672-309b5e22add1,d396b659-4946-4720-a662-22fb99268ee2,2023-06-06,2023-06-06 00:29:00,66,Missed,Must most main computer.,0.5146195668330763,['long'],2023-07-18 11:16:03.378358,2023-07-18 11:16:03.378358
